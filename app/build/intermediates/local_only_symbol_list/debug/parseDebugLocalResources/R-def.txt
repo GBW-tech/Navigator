@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.AppCompat.DayNight
+style Theme.AppCompat.DayNight.DarkActionBar
+style Theme.AppCompat.DayNight.Dialog
+style Theme.AppCompat.DayNight.DialogWhenLarge
+style Theme.AppCompat.DayNight.Dialog.Alert
+style Theme.AppCompat.DayNight.Dialog.MinWidth
+style Theme.AppCompat.DayNight.NoActionBar
+style Theme.KlustrKast
+style Theme.MaterialComponents.DayNight
+style Theme.MaterialComponents.DayNight.BottomSheetDialog
+style Theme.MaterialComponents.DayNight.Bridge
+style Theme.MaterialComponents.DayNight.DarkActionBar
+style Theme.MaterialComponents.DayNight.DarkActionBar.Bridge
+style Theme.MaterialComponents.DayNight.Dialog
+style Theme.MaterialComponents.DayNight.DialogWhenLarge
+style Theme.MaterialComponents.DayNight.Dialog.Alert
+style Theme.MaterialComponents.DayNight.Dialog.Alert.Bridge
+style Theme.MaterialComponents.DayNight.Dialog.Bridge
+style Theme.MaterialComponents.DayNight.Dialog.FixedSize
+style Theme.MaterialComponents.DayNight.Dialog.FixedSize.Bridge
+style Theme.MaterialComponents.DayNight.Dialog.MinWidth
+style Theme.MaterialComponents.DayNight.Dialog.MinWidth.Bridge
+style Theme.MaterialComponents.DayNight.NoActionBar
+style Theme.MaterialComponents.DayNight.NoActionBar.Bridge

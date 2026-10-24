@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.nav.navigator.app-debug-33:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.nav.navigator.app-main-35:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.nav.navigator.app-debug-33:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.nav.navigator.app-main-35:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.nav.navigator.app-debug-33:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.nav.navigator.app-main-35:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.nav.navigator.app-debug-33:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.nav.navigator.app-main-35:/drawable/ic_launcher_background.xml"
+    }
+]

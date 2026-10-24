@@ -1,0 +1,4 @@
+lib/arm64-v8a/libmaplibre.so->org.maplibre.gl:android-sdk:11.5.0
+lib/armeabi-v7a/libmaplibre.so->org.maplibre.gl:android-sdk:11.5.0
+lib/x86/libmaplibre.so->org.maplibre.gl:android-sdk:11.5.0
+lib/x86_64/libmaplibre.so->org.maplibre.gl:android-sdk:11.5.0
